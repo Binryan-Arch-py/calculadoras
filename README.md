@@ -3,6 +3,7 @@
 Este repositorio contiene una colección de herramientas de cálculo desarrolladas en **Python**.
 Es parte de mi aprendizaje de lógica de programación.
 Este programa fue pensado para calcular y automatizar cosas que una calculadora normal no puede hacer
+
 ## proyectos incluidos
 * **Calculadora de sucesiones** para poder calcular sucesiones
 * **tablas de multiplicar** para mostrar las tablas de multiplicar

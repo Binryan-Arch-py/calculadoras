@@ -18,8 +18,7 @@ Este programa fue pensado para calcular y automatizar cosas que una calculadora 
 
 ## Cómo ejecutarlo
 Para correr este programa, asegurate de tener Python instalado y ejecuta:
-'''bash
-python calculadoras.py
-'''
 
-Desarrollado por Bryan David Pérez arana
+python calculadoras.py
+
+### Desarrollado por Bryan David Pérez arana
